@@ -1,3 +1,7 @@
+# name:sai eshwar reddy kottapally
+# roll no:100519733022
+# program to print numbers greater than a number in a list
+
 a=[]
 size=eval(input("enter size of the list:"))
 n=eval(input("enter a number:"))

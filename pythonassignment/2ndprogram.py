@@ -1,3 +1,7 @@
+# name:sai eshwar reddy kottapally
+# roll no:100519733022
+# program to print largest and second largest of a list
+
 n=eval(input("enter the set size:"))
 
 a=[]

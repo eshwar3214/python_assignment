@@ -1,3 +1,7 @@
+# name:sai eshwar reddy kottapally
+# roll no:100519733022
+# program to print sum of n natural numbers
+
 n=eval(input("enter n:"))
 
 sum=0
