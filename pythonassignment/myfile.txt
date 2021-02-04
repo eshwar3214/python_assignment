@@ -1,0 +1,3 @@
+This is myfile.txt file 
+This is created to illustrate writing of files in python 
+Let's see if it is done properly! 
